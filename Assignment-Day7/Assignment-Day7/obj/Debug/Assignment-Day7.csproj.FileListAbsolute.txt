@@ -1,0 +1,7 @@
+G:\OneDrive\SimpliLearn\Phase 2\Day 7\Assignment-Day7\Assignment-Day7\bin\Debug\Assignment-Day7.exe.config
+G:\OneDrive\SimpliLearn\Phase 2\Day 7\Assignment-Day7\Assignment-Day7\bin\Debug\Assignment-Day7.exe
+G:\OneDrive\SimpliLearn\Phase 2\Day 7\Assignment-Day7\Assignment-Day7\bin\Debug\Assignment-Day7.pdb
+G:\OneDrive\SimpliLearn\Phase 2\Day 7\Assignment-Day7\Assignment-Day7\obj\Debug\Assignment-Day7.csproj.AssemblyReference.cache
+G:\OneDrive\SimpliLearn\Phase 2\Day 7\Assignment-Day7\Assignment-Day7\obj\Debug\Assignment-Day7.csproj.CoreCompileInputs.cache
+G:\OneDrive\SimpliLearn\Phase 2\Day 7\Assignment-Day7\Assignment-Day7\obj\Debug\Assignment-Day7.exe
+G:\OneDrive\SimpliLearn\Phase 2\Day 7\Assignment-Day7\Assignment-Day7\obj\Debug\Assignment-Day7.pdb
